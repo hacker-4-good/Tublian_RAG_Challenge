@@ -1,6 +1,6 @@
 # Tublian RAG Challenge
 
-Necessary Step to Test the application
+Necessary Steps to Test the application
 
 <ol>
   <li>
