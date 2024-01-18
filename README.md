@@ -19,7 +19,10 @@ Necessary Steps to Test the application
     <code>pipenv install</code>
   </li>
   <li>
-    Change .env variable <code>OPENAI_API_KEY</code> to your generated token.
+    create .env file and add <code>OPENAI_API_KEY</code> variable.
+  </li>
+  <li>
+    Now generate Open AI API_KEY for your account using <a href='https://openai.com/'>Click Here</a>.
   </li>
   <li>
     Change .env variable <code>OPENAI_API_KEY</code> to your generated token.
