@@ -10,6 +10,9 @@ Necessary Step to Test the application
     <code>cd [REPO NAME]</code>
   </li>
   <li>
+    Optional <code>pip install pipenv</code> run this command in case you don't have it in your python ecosystem.
+  </li>
+  <li>
     <code>pipenv shell</code>
   </li>
   <li>
