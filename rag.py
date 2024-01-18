@@ -12,7 +12,7 @@ load_dotenv()
 
 def PDFQA(text: str):
     loader = PyPDFLoader(
-        file_path='tublian-challenge/llm-ebook.pdf'
+        file_path='Tublian_RAG_Challenge/llm-ebook.pdf'
     )
 
     docs = loader.load()
